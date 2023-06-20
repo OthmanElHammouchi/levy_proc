@@ -1,0 +1,200 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{andersen}{inbook}{}
+      \name{author}{4}{}{%
+        {{hash=f217cab746efa4f75ae14c12b5e7913b}{%
+           family={Andersen},
+           familyi={A\bibinitperiod},
+           given={Lars\bibnamedelima N{ø}rvang},
+           giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=aa046948248a8c9a6507690840ab5802}{%
+           family={Asmussen},
+           familyi={A\bibinitperiod},
+           given={S{ø}ren},
+           giveni={S\bibinitperiod}}}%
+        {{hash=bbb2938067028135a82ee516bd25dece}{%
+           family={Glynn},
+           familyi={G\bibinitperiod},
+           given={Peter\bibnamedelima W.},
+           giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=f1f7c686c59c12a5458bb0720fee8e7c}{%
+           family={Pihlsg{å}rd},
+           familyi={P\bibinitperiod},
+           given={Mats},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{338cafc10e51dfe4bdc182c413290701}
+      \strng{fullhash}{e3dab912448edd482ffc43411c90b7e5}
+      \strng{bibnamehash}{338cafc10e51dfe4bdc182c413290701}
+      \strng{authorbibnamehash}{338cafc10e51dfe4bdc182c413290701}
+      \strng{authornamehash}{338cafc10e51dfe4bdc182c413290701}
+      \strng{authorfullhash}{e3dab912448edd482ffc43411c90b7e5}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Lévy Matters V: Functionals of Lévy Processes}
+      \field{isbn}{978-3-319-23138-9}
+      \field{title}{Lévy Processes with Two-Sided Reflection}
+      \field{year}{2015}
+      \true{nocite}
+      \field{pages}{67\bibrangedash 182}
+      \range{pages}{116}
+      \verb{doi}
+      \verb 10.1007/978-3-319-23138-9_2
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-319-23138-9_2
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-319-23138-9_2
+      \endverb
+    \endentry
+    \entry{kyprianou}{inbook}{}
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Introductory Lectures on Fluctuations of Lévy Processes with Applications}
+      \field{isbn}{978-3-540-31343-4}
+      \field{title}{General Storage Models and Paths of Bounded Variation}
+      \field{year}{2006}
+      \true{nocite}
+      \field{pages}{87\bibrangedash 109}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1007/978-3-540-31343-4_4
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-540-31343-4_4
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-540-31343-4_4
+      \endverb
+    \endentry
+    \entry{liptser}{inbook}{}
+      \name{author}{2}{}{%
+        {{hash=1dc85a196ba5a0db16e8a9f4fd8f560a}{%
+           family={Liptser},
+           familyi={L\bibinitperiod},
+           given={R.\bibnamedelimi Sh.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=0add27109af3e690d455bb5d9db865c6}{%
+           family={Shiryaev},
+           familyi={S\bibinitperiod},
+           given={A.\bibnamedelimi N.},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{7829147c44b13300b29863b2b3b427b7}
+      \strng{fullhash}{7829147c44b13300b29863b2b3b427b7}
+      \strng{bibnamehash}{7829147c44b13300b29863b2b3b427b7}
+      \strng{authorbibnamehash}{7829147c44b13300b29863b2b3b427b7}
+      \strng{authornamehash}{7829147c44b13300b29863b2b3b427b7}
+      \strng{authorfullhash}{7829147c44b13300b29863b2b3b427b7}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Probability Theory III: Stochastic Calculus}
+      \field{isbn}{978-3-662-03640-2}
+      \field{title}{Stochastic Calculus on Filtered Probability Spaces}
+      \field{year}{1998}
+      \true{nocite}
+      \field{pages}{111\bibrangedash 157}
+      \range{pages}{47}
+      \verb{doi}
+      \verb 10.1007/978-3-662-03640-2_3
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-662-03640-2_3
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-662-03640-2_3
+      \endverb
+    \endentry
+    \entry{revuz}{inbook}{}
+      \name{author}{2}{}{%
+        {{hash=d22ba828552db2e93a2f5a9c4a3b82ab}{%
+           family={Revuz},
+           familyi={R\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=1e58f52d7501e0df28f20cd5871cbc80}{%
+           family={Yor},
+           familyi={Y\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{1a41fb2b12520997054640e1b7417dc2}
+      \strng{fullhash}{1a41fb2b12520997054640e1b7417dc2}
+      \strng{bibnamehash}{1a41fb2b12520997054640e1b7417dc2}
+      \strng{authorbibnamehash}{1a41fb2b12520997054640e1b7417dc2}
+      \strng{authornamehash}{1a41fb2b12520997054640e1b7417dc2}
+      \strng{authorfullhash}{1a41fb2b12520997054640e1b7417dc2}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Continuous Martingales and Brownian Motion}
+      \field{isbn}{978-3-662-06400-9}
+      \field{title}{Martingales}
+      \field{year}{1999}
+      \true{nocite}
+      \field{pages}{51\bibrangedash 77}
+      \range{pages}{27}
+      \verb{doi}
+      \verb 10.1007/978-3-662-06400-9_3
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-662-06400-9_3
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-662-06400-9_3
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
